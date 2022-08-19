@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "editor.fontFamily": "fire Code",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 16,
+}
